@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-color: black;
+}
+body{
+    width: 1300px;
+    margin: 0 auto;
+    color: gray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 20px;
+}
+div{
+
+}
+h1{
+    text-align: center;
+    padding-bottom: 0px;
+}
+.title{
+    margin-top: 20px;
+    margin-bottom: 1px;
+    margin-left: 12px;
+    width: 228px;
+}
+.line{
+    margin-left: 5px;
+    width: 700px;
+    margin-top: 0px;
+}
+p{
+    text-align: justify;
+}
+.text{
+    margin-left: 120px;
+    margin-top: -195px;
+    padding-left: 22%;
+}
+.title_2{
+    text-align: right;
+    padding-top: 30px;
+
+}
+.line_2{
+    padding-left: 800px;
+    width: 700px;
+    margin-top: 0px;
+}
+.text_3{
+    color: gray;
+    margin-right: 400px;
+    margin-top: -225;
+    margin-top: -210;
+    margin-top: -210px;
+}
+.text_4{
+    padding-top: 20px;
+}
+.text_5{
+    padding-top: 20px; 
+}
+.title_3{
+    margin-top: 20px;
+    margin-bottom: 1px;
+    margin-left: 12px;
+    width: 448px;
+}
+.line_3{
+    margin-left: 5px;
+    width: 700px;
+    margin-top: 0px;
+}
+.text_6{
+    margin-left: 120px;
+    margin-top: -195px;
+    padding-left: 22%;
+}  
+.text_7{
+    
+}
